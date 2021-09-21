@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.wiley.com/namespaces/wiley" />
+    <ignored-resource url="http://www.wiley.com/namespaces/wiley/wiley" />
+  </component>
+</application>
